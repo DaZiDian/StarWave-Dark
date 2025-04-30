@@ -5,7 +5,7 @@
   <img src="https://github.com/user-attachments/assets/dc78401c-e578-489c-ab31-a34727524f11" width="500" alt="StarWave Logo">
   <h1>StarWave AI歌声合成工作站</h1>
   
-  [![Windows Build](https://img.shields.io/badge/Windows-Supported-success?logo=windows)](https://github.com/yourname/StarWave-Dark/actions)
+  [![Windows Build](https://img.shields.io/badge/Windows-Supported-success?logo=windows)](https://github.com/DaZiDian/StarWave-Dark/actions)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
   [![Qt Version](https://img.shields.io/badge/Qt-6.6.0-blue?logo=qt)](https://www.qt.io/)
   [![CUDA](https://img.shields.io/badge/CUDA-11.8-76B900?logo=nvidia)](https://developer.nvidia.com/cuda-toolkit)
@@ -43,12 +43,12 @@
 ### 一键安装脚本
 ```powershell
 # 以管理员身份运行PowerShell
-iex (iwr -useb https://raw.githubusercontent.com/yourname/StarWave-Dark/main/scripts/install_deps.ps1)
+iex (iwr -useb https://raw.githubusercontent.com/DaZiDian/StarWave-Dark/main/scripts/install_deps.ps1)
 ```
 ## 🚀 快速构建指南
 ### 步骤1：克隆仓库
 ```powershell
-git clone --recursive https://github.com/yourname/StarWave-Dark
+git clone --recursive https://github.com/DaZiDian/StarWave-Dark
 cd StarWave-Dark
 ```
 ### 步骤2：安装依赖
