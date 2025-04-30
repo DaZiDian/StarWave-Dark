@@ -1,8 +1,8 @@
-![image](https://github.com/user-attachments/assets/dc78401c-e578-489c-ab31-a34727524f11)
+
 
 <!-- StarWave README.md -->
 <div align="center">
-  <img src="docs/logo.png" width="200" alt="StarWave Logo">
+  <img src="https://github.com/user-attachments/assets/dc78401c-e578-489c-ab31-a34727524f11" width="200" alt="StarWave Logo">
   <h1>StarWave AI歌声合成工作站</h1>
   
   [![Windows Build](https://img.shields.io/badge/Windows-Supported-success?logo=windows)](https://github.com/yourname/StarWave-Dark/actions)
