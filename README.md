@@ -79,11 +79,8 @@ cmake --build . --config Release --target ALL_BUILD -j 8
 ```
 ## 🎹 使用教程
 ### 基本工作流
-graph TD
-    A[导入MIDI/歌词] --> B[选择声库]
-    B --> C[参数调整]
-    C --> D[实时试听]
-    D --> E[导出WAV]
+![workflow](https://github.com/user-attachments/assets/599032b9-c1b1-457a-9597-0c851e430b7d)
+
 ### 快捷键参考
 | 操作 | 快捷键 | 说明 |
 | ---- | ---- | ---- |
