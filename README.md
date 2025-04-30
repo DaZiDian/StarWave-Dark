@@ -7,8 +7,8 @@
   
   [![Windows Build](https://img.shields.io/badge/Windows-Supported-success?logo=windows)](https://github.com/DaZiDian/StarWave-Dark/actions)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-  [![Qt Version](https://img.shields.io/badge/Qt-6.6.0-blue?logo=qt)](https://www.qt.io/)
-  [![CUDA](https://img.shields.io/badge/CUDA-11.8-76B900?logo=nvidia)](https://developer.nvidia.com/cuda-toolkit)
+  [![Qt Version](https://img.shields.io/badge/Qt-6.6.0-blue)](https://www.qt.io/)
+  [![CUDA](https://img.shields.io/badge/CUDA-11.8-76B900)](https://developer.nvidia.com/cuda-toolkit)
 
 </div>
 
