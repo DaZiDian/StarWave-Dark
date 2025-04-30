@@ -5,10 +5,10 @@
   <img src="https://github.com/user-attachments/assets/dc78401c-e578-489c-ab31-a34727524f11" width="500" alt="StarWave Logo">
   <h1>StarWave AI歌声合成工作站</h1>
   
-  [![Windows Build](https://img.shields.io/badge/Windows-Supported-success)]
+  [![Windows Build](https://img.shields.io/badge/Windows-Supported-success)](Win11)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-  [![Qt Version](https://img.shields.io/badge/Qt-6.6.0-blue)]
-  [![CUDA](https://img.shields.io/badge/CUDA-11.8-76B900)]
+  [![Qt Version](https://img.shields.io/badge/Qt-6.6.0-blue)](Qt)
+  [![CUDA](https://img.shields.io/badge/CUDA-11.8-76B900)](CUDA)
 
 </div>
 
